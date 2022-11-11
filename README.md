@@ -1,1 +1,2 @@
-## Earthquakes in and near Italy
+## RearthquakesIT
+An $R$ package to visualize earthquakes in and near Italy.
